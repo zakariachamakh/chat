@@ -38,6 +38,12 @@ dependencies:
   firebase_core: ^1.17.0
   fluttertoast: ^8.0.9
   cloud_firestore: ^3.1.15
+  google_fonts: ^3.0.1
+  stream_chat_flutter_core: ^4.3.0
+  logger: ^1.1.0
+  cached_network_image: ^3.2.1
+  jiffy: ^5.0.0
+  faker: ^2.0.0
 
 dev_dependencies:
   flutter_test:

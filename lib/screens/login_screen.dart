@@ -1,8 +1,8 @@
-import 'package:gochat/screens/home_screen.dart';
-import 'package:gochat/screens/registration_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:gochat/chat/screens/home_screen.dart';
+import 'package:gochat/screens/registration_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);
