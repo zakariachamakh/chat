@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "89023823395",
+    "project_id": "chatapp-b7e88",
+    "storage_bucket": "chatapp-b7e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89023823395:android:16174095856cbd048d3b96",
+        "android_client_info": {
+          "package_name": "com.example.gochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89023823395-v5br6rv5l7n19aisphi8uma3obsdmvjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gochat",
+            "certificate_hash": "a9d3ae8cad1c088fbec9ea153d2f21caf7880eee"
+          }
+        },
+        {
+          "client_id": "89023823395-7i62iflqmkaeg5jme8rcehi0qr9me4ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7-tCa4HwxXZPsfGqBmLxPl9iK-VD2Hhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89023823395-7i62iflqmkaeg5jme8rcehi0qr9me4ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
